@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o9ykv0hd6cwtl1n4?svg=true)](https://ci.appveyor.com/project/AbdulovADA/autojava5-pattern-change-of-date)
